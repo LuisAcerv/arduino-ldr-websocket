@@ -2,4 +2,4 @@
 
 Control web browser background color using LDR and Arduino UNO
 
-![alt text](/schematics/ldr_bb.png)
+![alt text](https://github.com/LuisAcerv/arduino-ldr-websocket/raw/master/schematics/lrd_bb.png)
