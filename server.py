@@ -9,8 +9,8 @@ import pyfirmata
 
 PORT = '/dev/cu.usbmodem141101'
 
-PIN = 0  # Pin 2 is used
-DEL = 2  # A 3 seconds delay
+PIN = 0  # Pin 0 is used
+DEL = 1  # A 1 seconds delay
 
 # Creates a new board
 board = pyfirmata.Arduino(PORT)
